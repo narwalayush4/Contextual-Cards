@@ -1,6 +1,14 @@
 # Contextual-Cards
 
 This iOS app fetches cards data and attributes from an API endpoint and formats the UI based on the received data.
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="Images/IMG_5959.PNG" alt="Asking user for location permission" /></td>
+    <td align="center"><img src="Images/IMG_5960.PNG" alt="User location displayed" /></td>
+  </tr>
+</table>
 
 ## Usage
 
@@ -100,5 +108,5 @@ let color = ColorHelper.shared.color(from: hexCode)
 
 ### Prerequisites
 
-- Xcode (Version X.X or later)
+- Xcode (Version 14.2 or later)
 - SwiftUI knowledge
